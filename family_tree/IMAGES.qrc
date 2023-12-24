@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="boy">1.png</file>
+        <file alias="bycicle">bycicle.jpg</file>
+        <file>girl_white.png</file>
+        <file>girl2.png</file>
+        <file>girl_right.png</file>
+    </qresource>
+</RCC>

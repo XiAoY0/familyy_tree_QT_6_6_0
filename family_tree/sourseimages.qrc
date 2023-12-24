@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>黑白男人手拿鲜花.jpg</file>
+        <file>黄色自行车.jpg</file>
+        <file>老街大爷骑车.jpg</file>
+        <file>婆婆捡纸壳子.jpg</file>
+        <file>日出.jpg</file>
+        <file>晚上巷子里的车.jpg</file>
+        <file>微信图片_20231112225141.jpg</file>
+        <file>竹影.jpg</file>
+        <file>1.png</file>
+        <file>眼睛闭真.png</file>
+    </qresource>
+</RCC>
